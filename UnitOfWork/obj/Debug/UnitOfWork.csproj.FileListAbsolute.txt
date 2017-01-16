@@ -1,0 +1,12 @@
+C:\Users\chezwang\Documents\Visual Studio 2013\Projects\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.dll.config
+C:\Users\chezwang\Documents\Visual Studio 2013\Projects\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.dll
+C:\Users\chezwang\Documents\Visual Studio 2013\Projects\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.pdb
+C:\Users\chezwang\Documents\Visual Studio 2013\Projects\UnitOfWork\UnitOfWork\bin\Debug\EntityFramework.dll
+C:\Users\chezwang\Documents\Visual Studio 2013\Projects\UnitOfWork\UnitOfWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chezwang\Documents\Visual Studio 2013\Projects\UnitOfWork\UnitOfWork\bin\Debug\Moq.dll
+C:\Users\chezwang\Documents\Visual Studio 2013\Projects\UnitOfWork\UnitOfWork\bin\Debug\EntityFramework.xml
+C:\Users\chezwang\Documents\Visual Studio 2013\Projects\UnitOfWork\UnitOfWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chezwang\Documents\Visual Studio 2013\Projects\UnitOfWork\UnitOfWork\bin\Debug\Moq.xml
+C:\Users\chezwang\Documents\Visual Studio 2013\Projects\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.dll
+C:\Users\chezwang\Documents\Visual Studio 2013\Projects\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.pdb
+C:\Users\chezwang\Documents\Visual Studio 2013\Projects\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.csprojResolveAssemblyReference.cache

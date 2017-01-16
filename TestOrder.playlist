@@ -1,0 +1,7 @@
+<Playlist Version="1.0">
+<Add Test="UnitOfWork.UnitTestForRepository.TestAddEmploye_success" />
+<Add Test="UnitOfWork.UnitTestForRepository.TestFindEmployees_by_name_looklike_success" />
+<Add Test="UnitOfWork.UnitTestForRepository.TestGetEmployee_by_id_success" />
+<Add Test="UnitOfWork.UnitTestForRepository.TestRemoveEmployee_success" />
+<Add Test="UnitOfWork.UnitTestForRepository.TestGetTopEmployees_orderby_name_success" />
+</Playlist>
